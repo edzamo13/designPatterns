@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/after/hr/documents/ExportableDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/after/hr/logging/ConsoleLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/after/hr/main/SaveEmployeesMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/after/hr/persistence/EmployeeFileSerializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/after/hr/persistence/EmployeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/after/hr/personnel/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/after/hr/personnel/FullTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/after/hr/personnel/Intern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/after/hr/personnel/PartTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/amigoscode/AreaCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/amigoscode/Circle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/amigoscode/Cube.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/amigoscode/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/amigoscode/Mian.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/amigoscode/NoShape.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/amigoscode/Rectangle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/amigoscode/Shape.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/amigoscode/ShapePrint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/amigoscode/Square.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/amigoscode/ThreDimensionalShape.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/amigoscode/ThreeDimensionalShape.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/amigoscode/solid.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/before/hr/documents/ExportableDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/before/hr/main/SaveEmployeesMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/before/hr/persistence/EmployeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/before/hr/personnel/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/before/hr/personnel/FullTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/before/hr/personnel/Intern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/before/hr/personnel/PartTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/cli/Cli.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/warehouse/Customer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/warehouse/Order.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/warehouse/Product.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/warehouse/Report.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/warehouse/Warehouse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/warehouse/WarehouseException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/warehouse/export/AbstractExporter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/warehouse/export/CsvExporter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/warehouse/export/ExportType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/warehouse/export/HtmlExporter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/warehouse/export/TxtExporter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/oreilly/com/example/warehouse/util/CsvReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/hr/persistence/EmployeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/opeClosePrinciple/after/hr/FullTimeTaxCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/opeClosePrinciple/after/hr/InternTaxCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/opeClosePrinciple/after/hr/PartTimeTaxCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/opeClosePrinciple/after/hr/TaxCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/opeClosePrinciple/after/hr/TaxCalculatorFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/opeClosePrinciple/before/hr/TaxCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/documents/ExportableDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/logging/ConsoleLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/main/SaveEmployeesMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/persistence/EmployeeFileSerializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/persistence/EmployeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/personnel/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/personnel/FullTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/personnel/Intern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/personnel/PartTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/documents/ExportableDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/main/SaveEmployeesMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/persistence/EmployeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/personnel/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/personnel/FullTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/personnel/Intern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/personnel/PartTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/pocmybco.postman_collection.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/controllers/ClienteController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/controllers/ClienteController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/controllers/CuentaController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/controllers/MovimientoController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/controllers/PersonaController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/mapper/ClienteDtoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/mapper/ClienteMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/mapper/CuentaMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/mapper/MovimientoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/mapper/PersonaClienteMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/mapper/PersonaDtoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/mapper/PersonaMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/models/Cliente.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/models/Cuenta.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/models/Movimiento.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/models/Persona.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/models/dto/ClienteDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/models/dto/CuentaDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/models/dto/MovimientoDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/models/dto/MovimientoReporteDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/models/dto/PersonaClienteDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/models/dto/PersonaDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/models/dto/PersonaReporteDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/models/dto/PersonaReporteInDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/repositories/ClienteRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/repositories/CrudService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/repositories/CuentaRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/repositories/MovimientoRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/repositories/PersonaRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/services.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/services/ClienteService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/services/CrudService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/services/CuentaService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/services/MovimientoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/services/PersonaService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/util/ApiError.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/util/ApiValidationError.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/util/ControlExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/util/DemoExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/util/ErrorResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/util/InvalidDataException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/ec/com/mybco/edwinzamoraMybco/util/TipoMovimiento.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/models/Cliente.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/models/Cuenta.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/models/Movimiento.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/models/Persona.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/repositories/ClienteRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/repositories/CuentaRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/repositories/MovimientoRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/repositories/PersonaRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/services/ClienteService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/services/CuentaService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/java/services/MovimientoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/test/java/ec/com/mybco/edwinzamoraMybco/controllers/ClienteControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/test/java/ec/com/mybco/edwinzamoraMybco/controllers/CuentaControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../node/node/poc/edwinzamoraMybco/src/test/java/ec/com/mybco/edwinzamoraMybco/mapper/PersonaMapperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/testGoldi/src/main/java/controller/TestGoldi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

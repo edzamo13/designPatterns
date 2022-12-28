@@ -1,0 +1,7 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "noShape".(â”›à
+B
+java:S1481",Remove this unused "noShape" local variable.(â”›à
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÀŸó¼üÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(œÍ·ø
