@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/builder/openwebinar/example/Builder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/builder/openwebinar/example/ConcreteBuilder1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/builder/openwebinar/example/ConcreteBuilder2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/builder/openwebinar/example/Director.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/builder/openwebinar/example/Product.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/builder/pluralsight/BuilderEverydayDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/builder/pluralsight/BuilderLunchOrderDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/builder/pluralsight/LunchOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/builder/pluralsight/LunchOrderBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/builder/pluralsight/LunchOrderBeanDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/builder/pluralsight/LunchOrderTele.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/builder/pluralsight/LunchOrderTeleDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/singleton/openwebinar/example/EagerInitializedSingleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/singleton/openwebinar/example/LazyInitializedSingleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/singleton/openwebinar/example/StaticBlockSingleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/singleton/openwebinar/example/ThreadSafeSingleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/singleton/openwebinar/realWord/EagerInitializedSingleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/singleton/pluralsight/DbSingleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/singleton/pluralsight/DbSingletonDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/gangOfFour/creational/singleton/pluralsight/SingletonEverydayDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/solid/openClosed/HelloWorld.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ec/solid/openClosed/HolaMundo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../example/src/main/java/ExampleTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../example/src/main/java/test/ExampleTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../functional&amp;reactive/functionalProgramming/src/main/java/co/com/platzi/fuction/MathFuction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../functional&amp;reactive/functionalProgramming/src/main/java/documentation/documentation.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../functional&amp;reactive/functionalProgramming/src/main/java/ec/udemy/reactive/concurrencyParallelization/SubscribeOn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../kafka/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../kafka/src/main/java/ec/com/example/Consumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../kafka/src/main/java/ec/com/example/Producer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/after/hr/documents/ExportableDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/after/hr/logging/ConsoleLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/after/hr/main/SaveEmployeesMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/after/hr/persistence/EmployeeFileSerializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/after/hr/persistence/EmployeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/after/hr/personnel/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/after/hr/personnel/FullTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/after/hr/personnel/Intern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/after/hr/personnel/PartTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/amigoscode/AreaCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/amigoscode/Circle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/amigoscode/Cube.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/amigoscode/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/amigoscode/Mian.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/amigoscode/NoShape.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/amigoscode/Rectangle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/amigoscode/Shape.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/amigoscode/ShapePrint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/amigoscode/Square.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/amigoscode/ThreDimensionalShape.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/amigoscode/ThreeDimensionalShape.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/amigoscode/solid.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/before/hr/documents/ExportableDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/before/hr/main/SaveEmployeesMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/before/hr/persistence/EmployeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/before/hr/personnel/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/before/hr/personnel/FullTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/before/hr/personnel/Intern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/before/hr/personnel/PartTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/cli/Cli.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/warehouse/Customer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/warehouse/Order.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/warehouse/Product.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/warehouse/Report.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/warehouse/Warehouse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/warehouse/WarehouseException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/warehouse/export/AbstractExporter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/warehouse/export/CsvExporter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/warehouse/export/ExportType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/warehouse/export/HtmlExporter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/warehouse/export/TxtExporter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/oreilly/com/example/warehouse/util/CsvReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/hr/persistence/EmployeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/opeClosePrinciple/after/hr/FullTimeTaxCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/opeClosePrinciple/after/hr/InternTaxCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/opeClosePrinciple/after/hr/PartTimeTaxCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/opeClosePrinciple/after/hr/TaxCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/opeClosePrinciple/after/hr/TaxCalculatorFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/opeClosePrinciple/before/hr/TaxCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/documents/ExportableDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/logging/ConsoleLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/main/SaveEmployeesMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/persistence/EmployeeFileSerializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/persistence/EmployeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/personnel/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/personnel/FullTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/personnel/Intern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/after/hr/personnel/PartTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/documents/ExportableDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/main/SaveEmployeesMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/persistence/EmployeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/personnel/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/personnel/FullTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/personnel/Intern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../solid/src/main/java/pluralsight/singleResposibilityPrinciple/before/hr/personnel/PartTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../spring/gitSprint/spring/kafka/demoKafka/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../spring/gitSprint/spring/springLearn/conference-demo/src/test/java/com/example/conferencedemo/ConferenceDemoApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
